@@ -1,2 +1,2 @@
-# Controlo-de-opera-es-de-naves-alien-genas
+# Controlo-de-operacoes-de-naves-alienigenas-Parte1
 Linguagem Haskell
